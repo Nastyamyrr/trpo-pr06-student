@@ -1,0 +1,21 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-*
+
+# Local / temp
+*.log
+*.tmp
+.env
+.env.local
+
+# Composer (если появится)
+/vendor/
+
+# PHP / cache
+/tmp/
